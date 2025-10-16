@@ -1,4 +1,4 @@
 python-telegram-bot
+aiohttp
 fastapi==0.111.0
 uvicorn==0.23.2
-aiohttp
